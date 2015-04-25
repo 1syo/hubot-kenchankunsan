@@ -1,6 +1,6 @@
 {
   "name": "hubot-kenchankunsan",
-  "description": "A hubot script that does the things",
+  "description": "A hubot script that kenchankunsan",
   "version": "0.0.0",
   "author": "TAKAHASHI Kazunari <takahashi@1syo.net>",
   "license": "MIT",
@@ -9,11 +9,11 @@
 
   "repository": {
     "type": "git",
-    "url": "git://github.com/hubot-scripts/hubot-kenchankunsan.git"
+    "url": "git://github.com/1syo/hubot-kenchankunsan.git"
   },
 
   "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-kenchankunsan/issues"
+    "url": "https://github.com/1syo/hubot-kenchankunsan/issues"
   },
 
   "dependencies": {
