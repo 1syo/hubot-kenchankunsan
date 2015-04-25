@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/1syo/hubot-kenchankunsan.svg?branch=master)](https://travis-ci.org/1syo/hubot-kenchankunsan)
+
 # hubot-kenchankunsan
 
 A hubot script that does the things
