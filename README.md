@@ -2,7 +2,7 @@
 
 # hubot-kenchankunsan
 
-A hubot script that does the things
+A hubot script that kenchankunsan
 
 See [`src/kenchankunsan.coffee`](src/kenchankunsan.coffee) for full documentation.
 
@@ -10,7 +10,7 @@ See [`src/kenchankunsan.coffee`](src/kenchankunsan.coffee) for full documentatio
 
 In hubot project repo, run:
 
-`npm install hubot-kenchankunsan --save`
+`npm install git@github.com:1syo/hubot-kenchankunsan.git --save`
 
 Then add **hubot-kenchankunsan** to your `external-scripts.json`:
 
